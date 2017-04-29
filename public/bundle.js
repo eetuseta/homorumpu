@@ -24909,7 +24909,12 @@
 	    React.createElement(
 	      "p",
 	      null,
-	      "T\xE4m\xE4 sivu on tehty kaikille niille joille tasa-arvoinen avioliittolaki ei ole politiikan v\xE4line, vaan pikemminkin mittari kansakunnan sivistykseen. Toivottavasti t\xE4m\xE4 homma j\xE4\xE4 t\xE4h\xE4n. Lis\xE4tietoja halutessaan l\xF6ytyy vaikkapa ",
+	      "T\xE4m\xE4 sivu on tehty kaikille niille joille tasa-arvoinen avioliittolaki ei ole politiikan v\xE4line, vaan pikemminkin mittari kansakunnan sivistykseen. Tasa-arvo on kuitenkin hieno asia!"
+	    ),
+	    React.createElement(
+	      "p",
+	      null,
+	      "Lis\xE4tietoja halutessaan l\xF6ytyy vaikkapa ",
 	      React.createElement(
 	        "a",
 	        { href: "https://www.seta.fi" },
@@ -24932,6 +24937,15 @@
 	          "a",
 	          { href: "https://www.adressit.com/lisaa_homorummuttajia_saarakkalalle" },
 	          "Adressi homorummutukseen!"
+	        )
+	      ),
+	      React.createElement(
+	        "li",
+	        null,
+	        React.createElement(
+	          "a",
+	          { href: "https://www.facebook.com/groups/167435807113811/?multi_permalinks=168505207006871&notif_t=like&notif_id=1493402657594110" },
+	          "Facebook"
 	        )
 	      ),
 	      React.createElement(
