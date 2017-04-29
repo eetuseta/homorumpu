@@ -8,8 +8,6 @@ var About = (props) => {
         Tämä sivu on tehty kaikille niille joille tasa-arvoinen avioliittolaki ei ole
         politiikan väline, vaan pikemminkin mittari kansakunnan sivistykseen.
 
-        Toivottavasti tämä homma jää tähän.
-
         Lisätietoja halutessaan löytyy
         vaikkapa <a href="https://www.seta.fi">Setan</a> sivuilta.
 
