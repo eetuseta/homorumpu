@@ -1,17 +1,19 @@
 var React = require('react');
 var Nav = require('Nav');
+var About = require('About');
 
-var Main = (props) => {
-  return (
-    <div>
+var Main = React.createClass({
+  render: function() {
+    return (
+      <div>
+      <h2>Homorummutus.fi</h2>
       <Nav/>
-      <div className="row">
-        <div className="columns medium-6 large-4 small-centered">
-          {props.children}
-        </div>
+      <About/>
       </div>
-    </div>
-  );
-}
+
+    );
+
+  }
+});
 
 module.exports = Main;
