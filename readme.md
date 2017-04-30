@@ -1,6 +1,4 @@
-For local development:
-webpack -w
-node server.js
-and navigate to localhost:3000
+Author Eetu Kaivola
+
 
 License MIT
